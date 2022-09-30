@@ -1,5 +1,4 @@
 # Shipping-Company
-Data Structure Course Project
 
 <h3>💡 Description</h3>
 <div>
