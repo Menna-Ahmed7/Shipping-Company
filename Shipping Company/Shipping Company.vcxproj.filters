@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\DataStructures.cpp">
+      <UniqueIdentifier>{3a0dc943-f10e-47dc-a06c-025eaa0651f6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Cargos.h">
+      <UniqueIdentifier>{3fbd5b62-80dc-4e8d-b311-d3392a781875}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\DataStructures.h">
+      <UniqueIdentifier>{d27f1989-4263-4b87-a4f3-1c116b581255}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Events.h">
+      <UniqueIdentifier>{da02c18c-e6b9-4d4b-a799-fd5c1595a683}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\Trucks.h">
+      <UniqueIdentifier>{e37fc46c-8083-475c-b840-d04e2f51ea7c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Cargos.cpp">
+      <UniqueIdentifier>{781fdeea-6ab1-486a-9612-8fd67c8aa6d8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Trucks.cpp">
+      <UniqueIdentifier>{79a6f1f3-3512-46b8-9890-b8fded8a62e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files\Events">
+      <UniqueIdentifier>{7d40e919-8237-49f9-b3d3-43efd5384c5e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Company.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Time.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="UI.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Cargo.h">
+      <Filter>Header Files\Cargos.h</Filter>
+    </ClInclude>
+    <ClInclude Include="SpecialCargo.h">
+      <Filter>Header Files\Cargos.h</Filter>
+    </ClInclude>
+    <ClInclude Include="NormalCargo.h">
+      <Filter>Header Files\Cargos.h</Filter>
+    </ClInclude>
+    <ClInclude Include="VIPCargo.h">
+      <Filter>Header Files\Cargos.h</Filter>
+    </ClInclude>
+    <ClInclude Include="LinkedList.h">
+      <Filter>Header Files\DataStructures.h</Filter>
+    </ClInclude>
+    <ClInclude Include="LinkedQueue.h">
+      <Filter>Header Files\DataStructures.h</Filter>
+    </ClInclude>
+    <ClInclude Include="ListInterface.h">
+      <Filter>Header Files\DataStructures.h</Filter>
+    </ClInclude>
+    <ClInclude Include="Node.h">
+      <Filter>Header Files\DataStructures.h</Filter>
+    </ClInclude>
+    <ClInclude Include="Nodepriority.h">
+      <Filter>Header Files\DataStructures.h</Filter>
+    </ClInclude>
+    <ClInclude Include="PriorityQueue.h">
+      <Filter>Header Files\DataStructures.h</Filter>
+    </ClInclude>
+    <ClInclude Include="QueueADT.h">
+      <Filter>Header Files\DataStructures.h</Filter>
+    </ClInclude>
+    <ClInclude Include="QueueInterface.h">
+      <Filter>Header Files\DataStructures.h</Filter>
+    </ClInclude>
+    <ClInclude Include="NormalTrucks.h">
+      <Filter>Header Files\Trucks.h</Filter>
+    </ClInclude>
+    <ClInclude Include="Trucks.h">
+      <Filter>Header Files\Trucks.h</Filter>
+    </ClInclude>
+    <ClInclude Include="SpecialTrucks.h">
+      <Filter>Header Files\Trucks.h</Filter>
+    </ClInclude>
+    <ClInclude Include="VIPTrucks.h">
+      <Filter>Header Files\Trucks.h</Filter>
+    </ClInclude>
+    <ClInclude Include="Event.h">
+      <Filter>Header Files\Events.h</Filter>
+    </ClInclude>
+    <ClInclude Include="PreparationEvent.h">
+      <Filter>Header Files\Events.h</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Company.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Time.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="UI.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NormalCargo.cpp">
+      <Filter>Source Files\Cargos.cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="SpecialCargo.cpp">
+      <Filter>Source Files\Cargos.cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="VIPCargo.cpp">
+      <Filter>Source Files\Cargos.cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Cargo.cpp">
+      <Filter>Source Files\Cargos.cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="LinkedList.cpp">
+      <Filter>Source Files\DataStructures.cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="LinkedQueue.cpp">
+      <Filter>Source Files\DataStructures.cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="ListInterface.cpp">
+      <Filter>Source Files\DataStructures.cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Node.cpp">
+      <Filter>Source Files\DataStructures.cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Nodepriority.cpp">
+      <Filter>Source Files\DataStructures.cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="PriorityQueue.cpp">
+      <Filter>Source Files\DataStructures.cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="QueueADT.cpp">
+      <Filter>Source Files\DataStructures.cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="QueueInterface.cpp">
+      <Filter>Source Files\DataStructures.cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="NormalTrucks.cpp">
+      <Filter>Source Files\Trucks.cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="SpecialTrucks.cpp">
+      <Filter>Source Files\Trucks.cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="VIPTrucks.cpp">
+      <Filter>Source Files\Trucks.cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Trucks.cpp">
+      <Filter>Source Files\Trucks.cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Event.cpp">
+      <Filter>Source Files\Events</Filter>
+    </ClCompile>
+    <ClCompile Include="PreparationEvent.cpp">
+      <Filter>Source Files\Events</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
