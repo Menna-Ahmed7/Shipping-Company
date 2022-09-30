@@ -56,7 +56,7 @@ are delivered.
  - &nbsp;Third:Run The Program and write your input file name (with .txt) and the name you want for the output file (with .txt).
  - &nbsp;Only if you are in interactive mode,Press enter to move to the next hour.
  - &nbsp;Congratulations,the program will starts to work now.
- - &nbsp;There are some preprepared input and output diles provided.
+ - &nbsp;There are some preprepared input and output files provided.
 <hr>
 <h3>🧨Important Note</h3>
 
@@ -64,20 +64,6 @@ are delivered.
 - &nbsp; In output file:This program has no auto promoted cargos.
  
  ![image](https://user-images.githubusercontent.com/110634473/193285493-d79d6424-7aed-48c7-bd1d-c957e253eccc.png)
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
 
 
 
