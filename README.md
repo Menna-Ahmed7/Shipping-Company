@@ -48,7 +48,7 @@ each hour, the program waits for one second then resumes automatically.
  - &nbsp;The simulation function stops when there are no more events and all cargos
 are delivered.
  </div>
-
+<hr>
 <h3>🔧How To Use</h3>
 
  - &nbsp;First:Prepare your input file with the same format provided above.
@@ -57,7 +57,7 @@ are delivered.
  - &nbsp;Only if you are in interactive mode,Press enter to move to the next hour.
  - &nbsp;Congratulations,the program will starts to work now.
  - &nbsp;There are some preprepared input and output diles provided.
-
+<hr>
 <h3>🧨Important Note</h3>
 
 - &nbsp; In input file:This program has no auto promotion limit (days), MaxW (hours),cancellation event example and promotion event example.\
