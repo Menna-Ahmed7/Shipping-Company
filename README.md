@@ -1,13 +1,13 @@
 # Shipping-Company
 
-<h3>💡 Description</h3>
+## 💡 Description
 <div>
 
 - &nbsp;The Company working hours are from 5:00 to 23:00.
 - &nbsp;A shipping company needs to handle cargo delivery the most efficient and profitable way.
 The company needs to automate the cargo-truck assignment process to achieve good and fair use
 of its trucks.
-- &nbsp;THe program should receive all information to be simulated from an input file and
+- &nbsp;The program should receive all information to be simulated from an input file and
 produce an output file that contains some information and statistics.
 The input file format below
 
@@ -48,8 +48,9 @@ each hour, the program waits for one second then resumes automatically.
  - &nbsp;The simulation function stops when there are no more events and all cargos
 are delivered.
  </div>
-<hr>
-<h3>🔧How To Use</h3>
+
+
+## 🔧How To Use
 
  - &nbsp;First:Prepare your input file with the same format provided above.
  - &nbsp;Second:Run the program on visual studio 2019 (if you wanna use another version check how to retarget the project).
@@ -57,10 +58,10 @@ are delivered.
  - &nbsp;Only if you are in interactive mode,Press enter to move to the next hour.
  - &nbsp;Congratulations,the program will starts to work now.
  - &nbsp;There are some preprepared input and output files provided.
-<hr>
-<h3>🧨Important Note</h3>
 
-- &nbsp; In input file:This program has no auto promotion limit (days), MaxW (hours),cancellation event example and promotion event example.\
+## 🧨Important Note
+
+- &nbsp; In input file:This program has no auto promotion limit (days), MaxW (hours),cancellation event example and promotion event example.
 - &nbsp; In output file:This program has no auto promoted cargos.
  
  ![image](https://user-images.githubusercontent.com/110634473/193285493-d79d6424-7aed-48c7-bd1d-c957e253eccc.png)
