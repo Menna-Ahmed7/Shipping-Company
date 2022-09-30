@@ -57,6 +57,7 @@ are delivered.
  - &nbsp;Third:Run The Program and write your input file name (with .txt) and the name you want for the output file (with .txt).
  - &nbsp;Only if you are in interactive mode,Press enter to move to the next hour.
  - &nbsp;Congratulations,the program will starts to work now.
+ - &nbsp;There are some preprepared input and output diles provided.
 
 <h3>🧨Important Note</h3>
 
