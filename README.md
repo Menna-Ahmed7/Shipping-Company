@@ -5,8 +5,8 @@
 <div>
 
 - &nbsp;The shipping company needs to handle cargo delivery the most efficient and profitable way.
-The company needs to automate the cargo-truck assignment process to achieve good and fair use
-of its trucks.
+- &nbsp;The company is responsible for cargos' preparation and delivery as well as the trucks moving and maintenance. 
+- &nbsp;The project main purpose was how to keep the different types of data and how to choose the appropriate list for each data type.
 - &nbsp;The program should receive all information to be simulated from an input file and
 produce an output file that contains some information and statistics.
    - &nbsp;The input file format
