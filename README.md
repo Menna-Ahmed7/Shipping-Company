@@ -4,9 +4,8 @@
 # 💡 Description
 <div>
 
-- &nbsp;The shipping company needs to handle cargo delivery the most efficient and profitable way.
-- &nbsp;The company is responsible for cargos' preparation and delivery as well as the trucks moving and maintenance. 
-- &nbsp;The project main purpose was how to keep the different types of data and how to choose the appropriate list for each data type.
+- &nbsp;The company needs to handle cargos' preparation and delivery as well as the trucks' moving and maintenance. 
+- &nbsp;The project main purpose is how to interact with different types of data and how to choose the appropriate list for each data type.
 - &nbsp;The program should receive all information to be simulated from an input file and
 produce an output file that contains some information and statistics.
    - &nbsp;The input file format
@@ -22,13 +21,13 @@ produce an output file that contains some information and statistics.
  </div>
 
 # 📖 User Guide
- ## 🔧How To Use
+  ## 🔧How To Use
 
- - &nbsp;First: Prepare your input file with the same format provided above (Also there are some preprepared input and output files provided).
- - &nbsp;Second: Run the program on visual studio 2019 (if you want to use another version check how to retarget the project).
- - &nbsp;Third: Run The Program and write your input file name (with .txt) and the name you want for the output file (with .txt).
- - &nbsp;Only if you are in the interactive mode, press enter to move to the next hour.
- - &nbsp;Congratulations,the program will starts to work now.
+   - &nbsp;First: Prepare your input file with the same format provided above (Also there are some preprepared input and output files provided).
+   - &nbsp;Second: Run the program on visual studio 2019 (if you want to use another version check how to retarget the project).
+   - &nbsp;Third: Run The Program and write your input file name (with .txt) and the name you want for the output file (with .txt).
+   - &nbsp;Only if you are in the interactive mode, press enter to move to the next hour.
+   - &nbsp;Congratulations, the program will starts to work now.
 
 ## 🧨Important Note
 
