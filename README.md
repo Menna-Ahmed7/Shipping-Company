@@ -4,7 +4,6 @@
 # 💡 Description
 <div>
 
-- &nbsp;The Company working hours are from 5:00 to 23:00.
 - &nbsp;The shipping company needs to handle cargo delivery the most efficient and profitable way.
 The company needs to automate the cargo-truck assignment process to achieve good and fair use
 of its trucks.
@@ -20,37 +19,9 @@ produce an output file that contains some information and statistics.
 
       ![image](https://user-images.githubusercontent.com/110634473/193277467-714560b1-30fa-45a7-aecc-e1a83ccf2d56.png)
 
-
-- &nbsp;There are 3 types of cargos:
-  - &nbsp;VIP cargos: must be assigned first before other cargos.
-  - &nbsp;Special cargos:cargos to need special trucks like frozen cargos or chemical cargos,... etc
-  - &nbsp;Normal cargos: for all other cargos.
-- &nbsp;There are 3 types of Trucks:
-  - &nbsp;VIP trucks: are trucks that are used basically for VIP cargos.
-  - &nbsp;Special trucks: are trucks that are equipped to carry special cargos.
-  - &nbsp;Normal trucks
- - &nbsp;That's the assignment criteria:
-   - &nbsp;Assign VIP cargos are assigned to VIP trucks THEN normal
-trucks THEN special trucks.This means that we do not use normal trucks unless
-all VIP trucks are out, and we do not use special trucks unless trucks of all other
-types are out.
-   - &nbsp;Assign special cargos using the available special trucks ONLY. If no
-special truck is available, wait until one comes back.
-   - &nbsp;Assign normal cargos using any type of trucks EXCEPT special trucks.
-First use the available normal trucks THEN VIP trucks (if all normal trucks are
-out).
-   - &nbsp;If a cargo cannot be assigned on the current hour, it should wait for the next
-hour. On the next hour, it should be checked whether the cargo can be assigned
-now or not. If not, it should wait again and so on. 
-- &nbsp;The program has 3 modes :
-  - &nbsp;Interactive mode:This mode displays at each hour the status of all the trucks and cargos of the company whether they are inside or outside.
-  - &nbsp;Step by step mode:is identical to the interactive mode except that after
-each hour, the program waits for one second then resumes automatically.
-  - &nbsp;Silent Mode:The program produces only an output file.
- - &nbsp;The program ends when there are no new cargos and all the cargos are delivered.
  </div>
 
-# 📖User Guide
+# 📖 User Guide
  ## 🔧How To Use
 
  - &nbsp;First: Prepare your input file with the same format provided above (Also there are some preprepared input and output files provided).
